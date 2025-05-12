@@ -10,7 +10,7 @@ A microservice that returns date and time along with the ip when hit, dockerized
 
 Steps to build:
 1. docker pull yraj1457/simple-time-service
-2. docker run -p 5050:5050 yourusername/simple-time-service
+2. docker run -p 5050:5050 yraj1457/simple-time-service
 
 **Note**: This application runs on port 5050
 
