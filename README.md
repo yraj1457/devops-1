@@ -1,8 +1,8 @@
 # Requirements
-Docker
-Terraform
-AWS CLI
-Python
+1. Docker
+2. Terraform
+3. AWS CLI
+4. Python
 
 # SimpleTimeService
 
